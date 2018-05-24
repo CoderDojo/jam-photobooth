@@ -1,6 +1,6 @@
 # English
 text_en = {
-    'tweet': "#PiParty photo booth",
+    'tweet': "Excited about #CoolestProjects",
     'photo number': "Photo {} of {}",
     'press to capture': "Press the button to capture...",
     'tweeting': "Tweeting...",
